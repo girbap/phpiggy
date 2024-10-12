@@ -9,6 +9,7 @@
             "App\\": "src/App"
         },
         "files": [
+            "src/App/Config/Middleware.php",
             "src/App/Config/Routes.php"
         ]
     }
